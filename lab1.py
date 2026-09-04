@@ -88,4 +88,4 @@ if __name__ == '__main__':
     print_flag()
     print_pattern()
     plot_function()
-    play_animation()
+#   play_animation()
